@@ -34,9 +34,9 @@ Visualize trends in music over time.
 
 ## Visualization and Dashboards
 
--Python: bar charts, histograms, heatmaps, line plots 
--SQL: aggregation queries and KPI calculations 
--Excel: interactive dashboard with KPIs and slicers
+* Python: bar charts, histograms, heatmaps, line plots 
+* SQL: aggregation queries and KPI calculations 
+* Excel: interactive dashboard with KPIs and slicers
 
 ## Insights and Findings
 
