@@ -10,7 +10,8 @@ The dataset contains information about songs on Spotify, including:
 * Artist(s)
 * Album
 * Popularity
-Release Date -Classifications: [explicit_content], [popularity_level], [streams_level], [duration_minute], [date_group]
+*Release Date
+*Classifications: [explicit_content], [popularity_level], [streams_level], [duration_minute], [date_group]
 
 ## 🎯 Objectives
 
@@ -22,25 +23,22 @@ Visualize trends in music over time.
 
 ## 🛠 Tools & Technologies
 
-Python
-Pandas – Data manipulation
-Matplotlib / Seaborn – Visualization
--Excel: Pivot tables, slicers, and interactive dashboards -SQL: Data validation, querying, and KPI calculations
-Feature Engineering
-Created category flags (popularity_level ,duration_minute ,streams_level ,date_group )
+*Python
+  Pandas – Data manipulation
+  Matplotlib / Seaborn – Visualization
+-Excel: Pivot tables, slicers, and interactive dashboards
+-SQL: Data validation, querying, and KPI calculations
+*Feature Engineering
+  Created category flags (popularity_level ,duration_minute ,streams_level ,date_group )
 
 
 ## Visualization and Dashboards
 
--Python: bar charts, histograms, heatmaps, line plots -SQL: aggregation queries and KPI calculations -Excel: interactive dashboard with KPIs and slicers
+-Python: bar charts, histograms, heatmaps, line plots 
+-SQL: aggregation queries and KPI calculations 
+-Excel: interactive dashboard with KPIs and slicers
 
-
-## Visualization and Dashboards
-
-Python: bar charts, histograms, heatmaps, line plots SQL: aggregation queries and KPI calculations Excel: interactive dashboard with KPIs and slicers
-
-
-Insights and Findings
+## Insights and Findings
 
 The most popular songs are “Boy Actually Dog.”
 
