@@ -2,7 +2,7 @@
 This project explores and analyzes a Spotify dataset to uncover insights about songs, artists, and music trends.
 It includes data cleaning, exploratory data analysis (EDA), and visualization of key patterns.
 
-📊 Dataset
+##📊 Dataset
 
 The dataset contains information about songs on Spotify, including:
 
@@ -12,7 +12,7 @@ The dataset contains information about songs on Spotify, including:
 * Popularity
 Release Date -Classifications: [explicit_content], [popularity_level], [streams_level], [duration_minute], [date_group]
 
-🎯 Objectives
+##🎯 Objectives
 
 Clean and preprocess the dataset to handle missing values and duplicates.
 Explore distributions of key features (popularity, danceability, tempo).
@@ -20,7 +20,7 @@ Identify top artists and most popular tracks.
 Analyze correlations between audio features (e.g., danceability vs energy).
 Visualize trends in music over time.
 
-🛠 Tools & Technologies
+##🛠 Tools & Technologies
 
 Python
 Pandas – Data manipulation
@@ -30,12 +30,12 @@ Feature Engineering
 Created category flags (popularity_level ,duration_minute ,streams_level ,date_group )
 
 
-Visualization and Dashboards
+##Visualization and Dashboards
 
 -Python: bar charts, histograms, heatmaps, line plots -SQL: aggregation queries and KPI calculations -Excel: interactive dashboard with KPIs and slicers
 
 
-Visualization and Dashboards
+##Visualization and Dashboards
 
 Python: bar charts, histograms, heatmaps, line plots SQL: aggregation queries and KPI calculations Excel: interactive dashboard with KPIs and slicers
 
@@ -56,6 +56,6 @@ The label producing the most songs is Def Jam.
 The producer linked to the most popular songs is Zachary Ryan.
 The genre producing the most explicit songs is *
 
-About
+##About
 
 Developed as part of training at National Telecommunication Institute (NTI) and ITIDA.
