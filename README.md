@@ -23,12 +23,15 @@ Visualize trends in music over time.
 
 ## 🛠 Tools & Technologies
 
--Python
+*Python
   Pandas – Data manipulation
   Matplotlib / Seaborn – Visualization
--Excel: Pivot tables, slicers, and interactive dashboards
--SQL: Data validation, querying, and KPI calculations
--Feature Engineering
+  
+*Excel: Pivot tables, slicers, and interactive dashboards
+
+*SQL: Data validation, querying, and KPI calculations
+
+*Feature Engineering
   Created category flags (popularity_level ,duration_minute ,streams_level ,date_group )
 
 
