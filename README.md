@@ -5,10 +5,10 @@ It includes data cleaning, exploratory data analysis (EDA), and visualization of
 📊 Dataset
 The dataset contains information about songs on Spotify, including:
 
-Song_id
-Artist(s)
-Album
-Popularity
+* Song_id
+* Artist(s)
+* Album
+* Popularity
 Release Date -Classifications: [explicit_content], [popularity_level], [streams_level], [duration_minute], [date_group]
 🎯 Objectives
 Clean and preprocess the dataset to handle missing values and duplicates.
