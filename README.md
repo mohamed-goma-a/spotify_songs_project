@@ -2,7 +2,7 @@
 This project explores and analyzes a Spotify dataset to uncover insights about songs, artists, and music trends.
 It includes data cleaning, exploratory data analysis (EDA), and visualization of key patterns.
 
-##📊 Dataset
+## 📊 Dataset
 
 The dataset contains information about songs on Spotify, including:
 
