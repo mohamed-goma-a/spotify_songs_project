@@ -13,6 +13,7 @@ The dataset contains information about songs on Spotify, including:
 Release Date -Classifications: [explicit_content], [popularity_level], [streams_level], [duration_minute], [date_group]
 
 🎯 Objectives
+
 Clean and preprocess the dataset to handle missing values and duplicates.
 Explore distributions of key features (popularity, danceability, tempo).
 Identify top artists and most popular tracks.
@@ -20,6 +21,7 @@ Analyze correlations between audio features (e.g., danceability vs energy).
 Visualize trends in music over time.
 
 🛠 Tools & Technologies
+
 Python
 Pandas – Data manipulation
 Matplotlib / Seaborn – Visualization
@@ -29,14 +31,17 @@ Created category flags (popularity_level ,duration_minute ,streams_level ,date_g
 
 
 Visualization and Dashboards
+
 -Python: bar charts, histograms, heatmaps, line plots -SQL: aggregation queries and KPI calculations -Excel: interactive dashboard with KPIs and slicers
 
 
 Visualization and Dashboards
+
 Python: bar charts, histograms, heatmaps, line plots SQL: aggregation queries and KPI calculations Excel: interactive dashboard with KPIs and slicers
 
 
 Insights and Findings
+
 The most popular songs are “Boy Actually Dog.”
 
 The song with the highest streams is “Dvlopmentonee.”
@@ -52,4 +57,5 @@ The producer linked to the most popular songs is Zachary Ryan.
 The genre producing the most explicit songs is *
 
 About
+
 Developed as part of training at National Telecommunication Institute (NTI) and ITIDA.
